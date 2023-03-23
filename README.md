@@ -1,0 +1,1 @@
+# Array Sum From Frist Zero To Last Zero
